@@ -1,5 +1,5 @@
-# Rybinsk Tensor Forum
+# Kaliningrad Tensor Forum
 
-Встреча разработчиков проходящая в г. Рыбинск.
+Встреча разработчиков проходящая в г. Калининград.
 
-[http://rtf.tensor.ru](http://rtf.tensor.ru/)
+[http://kltf.tensor.ru](http://kltf.tensor.ru/)
