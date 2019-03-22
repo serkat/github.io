@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Rybinsk Tensor Forum
+title: Kaliningrad Tensor Forum
 locale: ru_RU
-description: Первая встреча рыбинских разработчиков в формате конференции TensorForum
+description: Первая встреча калининградских разработчиков в формате конференции TensorForum
 logo: logo.png
 search: true
 url: https://kltf.tensor.ru/
@@ -33,10 +33,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Rybinsk Tensor Forum
+  name: Kaliningrad Tensor Forum
   avatar: bio-photo.jpg
   email: sgresr@gmail.com
-  disqus-shortname: tensor-rybinsk
+  disqus-shortname: tensor-kaliningrad
   github:
   stackexchange: 
   linkedin: #username
