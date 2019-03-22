@@ -6,24 +6,24 @@ zuev_dmitry:
   avatar: zuev.png
   company: Тензор Ярославль
   
-izygin_nikita:
-  name: Изыгин Никита
-  email: nr.izygin@tensor.ru
-  avatar: izygin.png
-  company: Тензор Ярославль
+hamitov_kirill:
+  name: Хамитов Кирилл
+  email: kr.hamitov@ufa.tensor.ru
+  avatar: hamitov.png
+  company: Тензор Уфа
 
-baevatm:
-   name: Баева Татьяна
-   email: tm.afonina@tensor.ru
-   avatar: baeva.jpg
-   company: Тензор Ярославль
-   twitter: BaevaTatyana  
+# baevatm:
+#    name: Баева Татьяна
+#    email: tm.afonina@tensor.ru
+#    avatar: baeva.jpg
+#    company: Тензор Ярославль
+#    twitter: BaevaTatyana  
 
-beloletov_n:
-   name: Белотелов Никита
-   email: nv.belotelov@tensor.ru
-   avatar: belotelov_n.png
-   company: Тензор Ярославль   
+# beloletov_n:
+#    name: Белотелов Никита
+#    email: nv.belotelov@tensor.ru
+#    avatar: belotelov_n.png
+#    company: Тензор Ярославль   
 
 # elifantiev_oleg:
   # name: Олег Елифантьев
