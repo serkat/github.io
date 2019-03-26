@@ -55,7 +55,7 @@ __Вход – free.__
 Контактные телефоны: +7(909) 249-11-00 Мария
 
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Acd52f8c116e73c39bb701429ca0e459d78ce8793e4e75da7c77b2f9773f0cddc&amp;width=687&amp;height=502&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A36ddcdf780866d24a555f5e8156384d51f42ad5c6c33ffb7a74a4f0bbe78e4ed&amp;width=100%25&amp;height=636&amp;lang=ru_RU&amp;scroll=true"></script>
 
 
 <!--
@@ -67,6 +67,6 @@ __Вход – free.__
 -->
 
 [register]: /register/
-[place]: http://rybinsk.vikonda.ru/
+<!-- [place]:  -->
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
