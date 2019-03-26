@@ -55,13 +55,13 @@ __Вход – free.__
 Контактные телефоны: +7(909) 249-11-00 Мария
 
 
-<!-- <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A36ddcdf780866d24a555f5e8156384d51f42ad5c6c33ffb7a74a4f0bbe78e4ed&amp;width=100%25&amp;height=636&amp;lang=ru_RU&amp;scroll=true"></script> -->
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A36ddcdf780866d24a555f5e8156384d51f42ad5c6c33ffb7a74a4f0bbe78e4ed&amp;width=100%25&amp;height=636&amp;lang=ru_RU&amp;scroll=true"></script>
 
-<script type="application/javascript">  var __event_coordinates = {"longitude":"20.505843","latitude":"54.708227"}, __event_metro   = null;</script>
+<!-- <script type="application/javascript">  var __event_coordinates = {"longitude":"20.505843","latitude":"54.708227"}, __event_metro   = null;</script>
     
 <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
 
-<script type='text/javascript' src='https://timepad.ru/js/ep3-f8cae2320f.map.js'></script>
+<script type='text/javascript' src='https://timepad.ru/js/ep3-f8cae2320f.map.js'></script> -->
 
 
 <!--
