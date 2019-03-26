@@ -1,16 +1,22 @@
 # Authors
 
-zuev_dmitry:
-  name: Зуев Дмитрий
-  email: dv.zuev@tensor.ru
-  avatar: zuev.png
-  company: Тензор Ярославль
-  
 hamitov_kirill:
   name: Хамитов Кирилл
   email: kr.hamitov@ufa.tensor.ru
   avatar: hamitov.png
   company: Тензор Уфа
+
+zuev_dmitry:
+  name: Зуев Дмитрий
+  email: dv.zuev@tensor.ru
+  avatar: zuev.png
+  company: Тензор Ярославль
+
+uvarov_ivan:
+  name: Уваров Иван
+  email: dv.zuev@tensor.ru
+  avatar: uvarov.png
+  company: Тензор Ярославль
 
 # baevatm:
 #    name: Баева Татьяна
