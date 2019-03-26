@@ -36,7 +36,8 @@ owner:
   name: Kaliningrad Tensor Forum
   avatar: bio-photo.jpg
   email: sgresr@gmail.com
-  disqus-shortname: tensor-kaliningrad
+  disqus-shortname: tensor-rybinsk
+  # disqus-shortname: tensor-kaliningrad
   github:
   stackexchange: 
   linkedin: #username
